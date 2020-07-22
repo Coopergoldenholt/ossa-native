@@ -1,0 +1,3 @@
+export const START_SESSION = "START_SESSION";
+export const GET_USER_SESSION = "GET_USER_SESSION";
+export const SAVE_SESSION = "SAVE_SESSION";
